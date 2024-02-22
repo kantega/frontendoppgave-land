@@ -27,6 +27,8 @@ Hun ønsker nemlig å se følgende:
 
 ## API
 På https://restcountries.com/ finnes det et REST API om alle verdens land.
+Se for eksempel [Italia](https://restcountries.com/v3.1/name/Italy?fullText=true) eller [Island](https://restcountries.com/v3.1/name/Iceland?fullText=true).
+
 I tillegg til dette, så har Anita lagd en egen fil (land.ts) med litt informasjon om landene vi har besøkt.
 
 ## Oppgaver
