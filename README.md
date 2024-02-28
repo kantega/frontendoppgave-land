@@ -1,38 +1,21 @@
 # Kantegaland
-Annethvert år reiser vi i Kantega til et nytt land. 
-Vi kombinerer dette med vår årlige generalforsamling i april.
 
-## Land vi har besøkt
-- 2021: Italia
-- 2019: Island
-- 2017: Spania
-- 2015: Tyskland
 
-## Land vi skal besøke
-- 2025: Sveits
+## Kom i gang
+For å kjøre prosjektet trenger du å ha node satt opp.
 
-# Landsoversikt
-Vår reiseansvarlig, Anita, har veldig lyst på en oversiktsside over alle landene vi har besøkt.
-I tillegg ønsker Anita at det neste landet vi skal besøke vises ekstra stort og tydelig.
+```shell
+npm install
+# Start med
+npm run dev
+# Åpne opp nettsiden på localhost:3000
+```
 
-Anita har selvsagt noen sterke ønsker til hva slags informasjon som skal vises om hvert land.
-Hun ønsker nemlig å se følgende:
-- Navn
-- Dato vi besøkte landet
-- Hovedstad
-- Befolkning
-- Flagg
-- Valuta
-- Offisielle språk
+## Om koden
+- React applikasjon
 
-## API
-På https://restcountries.com/ finnes det et REST API om alle verdens land.
-Se for eksempel [Italia](https://restcountries.com/v3.1/name/Italy?fullText=true) eller [Island](https://restcountries.com/v3.1/name/Iceland?fullText=true).
-
-I tillegg til dette, så har Anita lagd en egen fil (land.ts) med litt informasjon om landene vi har besøkt.
-
-## Oppgaver
-Klon dette repoet og få appen til å kjøre på egen maskin.
-
-Gjør deg gjerne litt kjent med API-et for det er det vi skal bruke.
+## Om API-et
+- Hva, hvor
+- Et par eksempeler på respons og url
+- Vi har laget typedefinisjoner
 
